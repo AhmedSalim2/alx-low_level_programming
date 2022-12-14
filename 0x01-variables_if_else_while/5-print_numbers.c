@@ -1,15 +1,15 @@
 #include <stdio.h>
 
 int
-main(void) 
-{  
+main(void)
+{
 char c;
-    
-for (c = 0; c < 10; ++c)    
-{      
-printf("%d", c);      
-}  
+
+for (c = 0; c < 10; ++c)
+{
+printf("%d", c);
+}
 putchar('\n');
-  
+
 return (0);
 }
